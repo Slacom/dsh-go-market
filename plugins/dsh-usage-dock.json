@@ -10,6 +10,9 @@
     "en": "Balances and quotas for OpenCode Go, DeepSeek, OpenAI Codex and Xiaomi MiMo in the composer strip and native DSH Go panels, with multi-account Codex view/switch and custom balance channels."
   },
   "category": "productivity",
-  "screenshots": [],
+  "screenshots": [
+    "https://raw.githubusercontent.com/Slacom/dsh-usage-dock/main/preview.png",
+    "https://raw.githubusercontent.com/Slacom/dsh-usage-dock/main/docs/assets/dsh-go.jpg"
+  ],
   "homepage": "https://github.com/Slacom/dsh-usage-dock"
 }
